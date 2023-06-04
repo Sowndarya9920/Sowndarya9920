@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF00FF&size=30&center=true&vCenter=true&height=60&width=600&lines=Hi!+👋,+I'm+Sowndarya.;Welcome+to+my+Git-Hub+profile!;Feel+free+to+explore+my+projects;and+don't+hesitate+to+reach+out;if+you+have+any+questions;or+collabrations+in+mind." 
 </div>
 
