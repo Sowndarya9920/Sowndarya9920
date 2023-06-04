@@ -1,7 +1,6 @@
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF00FF&size=30&center=true&vCenter=true&height=60&width=600&lines=Hi!+👋,+I'm+Sowndarya.;Welcome+to+my+Git-Hub+profile!;Feel+free+to+explore+my+projects;and+don't+hesitate+to+reach+out;if+you+have+any+questions;or+collabrations+in+mind." 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF00FF&size=30&center=true&vCenter=true&height=60&width=600&lines=Hi!+👋,+I'm+Sowndarya.;Welcome+to+my+Git-Hub+profile!;Feel+free+to+explore+my+projects;and+don't+hesitate+to+reach+out;if+you+have+any+questions;or+collabrations+in+mind."
 </div>
-
 <h2 align = "center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300"><h2>
 
  
