@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hi!+👋,+I'm+Sowndarya.;I'm+backened+developer.)](https://git.io/typing-svg)</h1>
 ---
 
-<h2 align = " center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400"><h2>
+<h2 align = "center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300"><h2>
 
+ 
 <h3 align="center">As a proficient Java backend developer, I possess a strong foundation in object-oriented programming, enabling me to design robust and scalable applications by effectively encapsulating data and behavior within classes and leveraging inheritance, polymorphism, and encapsulation principles. I have a solid understanding of data structures and algorithms, allowing me to optimize application performance by selecting the most appropriate data structures and implementing efficient algorithms. Additionally, my expertise in SQL enables me to design and optimize database schemas, write complex queries, and ensure seamless integration between application and database layers. With my extensive knowledge of the Spring Boot framework, I am proficient in developing enterprise-grade applications, leveraging its powerful features such as dependency injection, MVC architecture, and integrated support for various databases and security protocols.</h3>
+  
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowndarya9920&label=Profile%20views&color=0e75b6&style=flat" alt="sowndarya9920" /> </p>
 
@@ -17,6 +20,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZmButzVn-lRd7tUeBMo3kOAIZrn-tCEP/view](https://drive.google.com/file/d/1ZmButzVn-lRd7tUeBMo3kOAIZrn-tCEP/view)
 
 - ⚡ Fun fact **"Whenever I dive into the world of creation, time seems to stand still. Whether I'm coding, writing, or experimenting with art, I lose track of hours as I immerse myself in the joy of bringing ideas to life.Each day is an opportunity to embrace my creativity and unleash the magic within."**
+  
+ <h3 align ="center"><img src="https://cdn.quotesgram.com/img/33/22/1521779399-hardwork.gif" width = "300"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
