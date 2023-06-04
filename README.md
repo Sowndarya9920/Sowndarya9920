@@ -39,6 +39,8 @@
 ---
 :chart_with_upwards_trend: Github stats 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndarya9920&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="sowndarya9920" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndarya9920&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact"  alt="sowndarya9920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowndarya9920&&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" " alt="sowndarya9920" /></p>
