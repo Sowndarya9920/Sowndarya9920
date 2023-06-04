@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Sowndarya+S.;I'm+backened+developer.)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hi!+👋,+I'm+Sowndarya.;I'm+backened+developer.)](https://git.io/typing-svg)</h1>
 ---
 
 <h2 align = " center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400"><h2>
