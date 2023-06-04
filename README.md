@@ -1,6 +1,5 @@
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=FF00FF&size=30&center=true&vCenter=true&height=60&width=600&lines=Hi!+👋,+I'm+Sowndarya.;Welcome+to+my+Git-Hub+profile!;Feel+free+to+explore+my+projects;and+don't+hesitate+to+reach+out;if+you+have+any+questions;or+collabrations+in+mind."
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=FF00FF&lines=Hi!+👋,+I'm+Sowndarya.;Welcome+to+my+Git-Hub+profile!;Feel+free+to+explore+my+projects;and+don't+hesitate+to+reach+out;if+you+have+any+questions;or+collabrations+in+mind.)](https://git.io/typing-svg)
+---
 <h2 align = "center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300"><h2>
 
  
@@ -56,4 +55,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=FF00FF&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly;appreciated!.)](https://git.io/typing-svg)
 ---
+  
+ 
 
