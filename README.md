@@ -1,16 +1,31 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Sowndarya+S.;I'm+backened+developer.)](https://git.io/typing-svg)</h1>
+---
 
-<!--
-**Sowndarya9920/Sowndarya9920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align = " center"><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400"><h2>
 
-Here are some ideas to get you started:
+<h3 align="center">As a proficient Java backend developer, I possess a strong foundation in object-oriented programming, enabling me to design robust and scalable applications by effectively encapsulating data and behavior within classes and leveraging inheritance, polymorphism, and encapsulation principles. I have a solid understanding of data structures and algorithms, allowing me to optimize application performance by selecting the most appropriate data structures and implementing efficient algorithms. Additionally, my expertise in SQL enables me to design and optimize database schemas, write complex queries, and ensure seamless integration between application and database layers. With my extensive knowledge of the Spring Boot framework, I am proficient in developing enterprise-grade applications, leveraging its powerful features such as dependency injection, MVC architecture, and integrated support for various databases and security protocols.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowndarya9920&label=Profile%20views&color=0e75b6&style=flat" alt="sowndarya9920" /> </p>
+
+- 🌱 I’m currently learning **Frontend Development**
+
+- 💬 Ask me about **Java , OOPs and Spring Boot**
+
+- 📫 How to reach me **sowndaryasakthi66@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZmButzVn-lRd7tUeBMo3kOAIZrn-tCEP/view](https://drive.google.com/file/d/1ZmButzVn-lRd7tUeBMo3kOAIZrn-tCEP/view)
+
+- ⚡ Fun fact **"Whenever I dive into the world of creation, time seems to stand still. Whether I'm coding, writing, or experimenting with art, I lose track of hours as I immerse myself in the joy of bringing ideas to life.Each day is an opportunity to embrace my creativity and unleash the magic within."**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sowndarya-s-874519233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sowndarya-s-874519233/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/sowndaryasakthi1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sowndaryasakthi1?hr_r=1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndarya9920&show_icons=true&locale=en" alt="sowndarya9920" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowndarya9920&" alt="sowndarya9920" /></p>
