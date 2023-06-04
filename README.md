@@ -55,5 +55,5 @@
 ![snake gif](https://github.com/abdulayef1/abdulayef1/blob/output/github-contribution-grid-snake.svg)
 ---
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=008080&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly+appreciated!.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=40E0D0&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly+appreciated!.)](https://git.io/typing-svg)
  ---
